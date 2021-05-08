@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Linux with LPIC-1 and networks with CCNA
 - 📫 You can contact or find me with:
       e-mail: vurhe@bk.ru
-      VK: vk.com/vurhe
-      Telegram: t.me/vurhe
-      Instagram: instagram.com/vurhe
+      VK: https://vk.com/vurhe
+      Telegram: https://t.me/vurhe
+      Instagram: https://instagram.com/vurhe
      
 
 <!---
