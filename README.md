@@ -1,11 +1,10 @@
-- 👋 Hi, I’m Artemy Ermolenko (@vurhe).
+- 👋 Hi, I’m Artemy Ermolenko-Cherniaev (@tatorhe).
 - 👀 I’m interested in servers (mostly linux, but windows servers too), networks, php/html and also social studies - politology is my favourite
 - 🌱 I’m currently learning Linux with LPIC-1 and networks with CCNA
 - 📫 You can contact or find me with:
-      e-mail: vurhe@bk.ru
-      VK: https://vk.com/vurhe
-      Telegram: https://t.me/vurhe
-      Instagram: https://instagram.com/vurhe
+      e-mail: tatorhe@ya.ru
+      VK: https://vk.com/tatorhe
+      Telegram: https://t.me/tatorhe
      
 
 <!---
